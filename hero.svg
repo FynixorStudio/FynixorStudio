@@ -1,75 +1,62 @@
-<svg width="900" height="380" viewBox="0 0 900 380" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<style>
-  .kicker { font-family: 'JetBrains Mono','Fira Code',ui-monospace,monospace; font-weight: 600; font-size: 11px; letter-spacing: 4px; fill: #7c3aed; }
-  .name { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 800; font-size: 46px; letter-spacing: 6px; fill: #f4f1fa; }
-  .name-shadow { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 800; font-size: 46px; letter-spacing: 6px; fill: #4c1d95; }
-  .sub { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 600; font-size: 14px; letter-spacing: 2px; fill: #a78bfa; }
-  .role { font-family: 'JetBrains Mono','Fira Code',ui-monospace,monospace; font-weight: 600; font-size: 14px; fill: #ddd6fe; }
-  .status-text { font-family: 'JetBrains Mono',ui-monospace,monospace; font-weight: 700; font-size: 13px; letter-spacing: 2px; fill: #ede9fe; }
-  .idx { font-family: 'JetBrains Mono',monospace; font-size: 11px; fill: #6d28d9; letter-spacing: 2px; }
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Fynixor Studio">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#170d31"/>
+      <stop offset="60%" stop-color="#0a0618"/>
+      <stop offset="100%" stop-color="#050308"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6d28d9" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: 'JetBrains Mono','Fira Code',ui-monospace,Consolas,monospace; }
+      .sans { font-family: 'Segoe UI',Helvetica,Arial,sans-serif; }
+      .kicker { font-size: 11px; letter-spacing: 4px; fill: #7c3aed; font-weight: 600; }
+      .name { font-size: 48px; letter-spacing: 7px; fill: #f4f1fa; font-weight: 800; }
+      .sub { font-size: 13px; letter-spacing: 3px; fill: #a78bfa; font-weight: 600; }
+      .unit { font-size: 14px; fill: #ede9fe; font-weight: 700; letter-spacing: 1px; }
+      .state { font-size: 10px; letter-spacing: 2px; fill: #8b7fb0; font-weight: 600; }
+      @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
+      .live { animation: pulse 2.4s ease-in-out infinite; }
+    </style>
+  </defs>
 
-  @keyframes tickpulse { 0%, 100% { opacity: .9; } 50% { opacity: .35; } }
-  .tick { animation: tickpulse 3.4s ease-in-out infinite; }
+  <rect width="900" height="300" rx="14" fill="url(#bg)"/>
+  <rect x="0.75" y="0.75" width="898.5" height="298.5" rx="13" fill="none" stroke="#4c1d95" stroke-width="1.5" opacity="0.55"/>
+  <rect x="0" y="0" width="900" height="3" fill="#7c3aed" opacity="0.85"/>
 
-  .clip1 rect { animation: type1 12s infinite; }
-  .clip2 rect { animation: type2 12s infinite; }
-  .clip3 rect { animation: type3 12s infinite; }
-  @keyframes type1 { 0%{width:0} 2%{width:0} 8%{width:230px} 21%{width:230px} 24%{width:0} 100%{width:0} }
-  @keyframes type2 { 0%{width:0} 26%{width:0} 29%{width:0} 42%{width:230px} 55%{width:230px} 58%{width:0} 100%{width:0} }
-  @keyframes type3 { 0%{width:0} 60%{width:0} 63%{width:0} 76%{width:230px} 89%{width:230px} 92%{width:0} 100%{width:0} }
+  <text x="450" y="54" text-anchor="middle" class="mono kicker">DIGITAL STUDIO · EST. 2023 · INDONESIA</text>
+  <text x="450" y="118" text-anchor="middle" class="sans name">FYNIXOR STUDIO</text>
+  <text x="450" y="148" text-anchor="middle" class="mono sub">SINGLE-FOUNDER · BUILD · AUTOMATE · SHIP</text>
+  <rect x="150" y="170" width="600" height="1.5" fill="url(#accent)"/>
 
-  @keyframes cursorblink { 0%, 45% { opacity: 1; } 50%, 100% { opacity: 0; } }
-  .cursor { animation: cursorblink 1s steps(1) infinite; }
-</style>
-
-<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#170d31"/>
-  <stop offset="55%" stop-color="#0a0618"/>
-  <stop offset="100%" stop-color="#050308"/>
-</linearGradient>
-
-<linearGradient id="railGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-  <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0"/>
-  <stop offset="15%" stop-color="#8b5cf6" stop-opacity="0.9"/>
-  <stop offset="85%" stop-color="#6d28d9" stop-opacity="0.9"/>
-  <stop offset="100%" stop-color="#6d28d9" stop-opacity="0"/>
-</linearGradient>
-</defs>
-
-<rect x="0" y="0" width="900" height="380" rx="14" fill="url(#bg)"/>
-<rect x="0.75" y="0.75" width="898.5" height="378.5" rx="13" fill="none" stroke="#4c1d95" stroke-width="1.5" opacity="0.55"/>
-<rect x="0" y="0" width="900" height="3" fill="#7c3aed" opacity="0.85"/>
-
-<rect x="0" y="30" width="3" height="320" fill="url(#railGrad)"/>
-<g class="tick" stroke="#7c3aed" stroke-width="2">
-  <line x1="0" y1="60" x2="14" y2="60"/>
-  <line x1="0" y1="150" x2="14" y2="150"/>
-  <line x1="0" y1="230" x2="14" y2="230"/>
-  <line x1="0" y1="320" x2="14" y2="320"/>
-</g>
-
-<text x="72" y="46" class="kicker">PARENT HOLDING — DIGITAL VENTURES</text>
-<text x="828" y="46" text-anchor="end" class="idx">01 / 03</text>
-
-<text x="453" y="150" text-anchor="middle" class="name-shadow">FYNIXOR STUDIO</text>
-<text x="450" y="147" text-anchor="middle" class="name">FYNIXOR STUDIO</text>
-
-<text x="450" y="182" text-anchor="middle" class="sub">SINGLE-FOUNDER · FULL OWNERSHIP · EST. 2023</text>
-<rect x="372" y="198" width="156" height="2" fill="#7c3aed" opacity="0.8"/>
-
-<clipPath id="clip1"><rect x="240" y="226" width="0" height="26"/></clipPath>
-<clipPath id="clip2"><rect x="240" y="226" width="0" height="26"/></clipPath>
-<clipPath id="clip3"><rect x="240" y="226" width="0" height="26"/></clipPath>
-
-<g class="clip1"><text x="240" y="246" text-anchor="start" class="role" clip-path="url(#clip1)">$ vorhex store — digital marketplace</text></g>
-<g class="clip2"><text x="240" y="246" text-anchor="start" class="role" clip-path="url(#clip2)">$ vorppob — payment &amp; ppob system</text></g>
-<g class="clip3"><text x="240" y="246" text-anchor="start" class="role" clip-path="url(#clip3)">$ nexus signal — trading intelligence</text></g>
-<rect class="cursor" x="240" y="228" width="9" height="20" fill="#a78bfa"/>
-
-<g>
-<rect x="330" y="286" width="240" height="40" rx="4" fill="#170f28" stroke="#7c3aed" stroke-width="1.3"/>
-<rect x="330" y="286" width="4" height="40" fill="#22c55e"/>
-<text x="450" y="311" text-anchor="middle" class="status-text">OPERATIONAL · 3 ACTIVE DIVISIONS</text>
-</g>
+  <!-- unit status row -->
+  <g class="mono">
+    <g transform="translate(60,200)">
+      <rect width="180" height="64" rx="6" fill="#170f28" stroke="#4c1d95" stroke-width="1"/>
+      <circle class="live" cx="20" cy="22" r="4.5" fill="#22c55e"/>
+      <text x="34" y="26" class="unit">VORHEX STORE</text>
+      <text x="20" y="48" class="state">ACTIVE</text>
+    </g>
+    <g transform="translate(260,200)">
+      <rect width="180" height="64" rx="6" fill="#170f28" stroke="#4c1d95" stroke-width="1"/>
+      <circle class="live" cx="20" cy="22" r="4.5" fill="#22c55e"/>
+      <text x="34" y="26" class="unit">LUMINA WORKSITE</text>
+      <text x="20" y="48" class="state">ACTIVE</text>
+    </g>
+    <g transform="translate(460,200)">
+      <rect width="180" height="64" rx="6" fill="#170f28" stroke="#4c1d95" stroke-width="1"/>
+      <circle cx="20" cy="22" r="4.5" fill="#a855f7"/>
+      <text x="34" y="26" class="unit">VTUBER AGENCY</text>
+      <text x="20" y="48" class="state">IN DEVELOPMENT</text>
+    </g>
+    <g transform="translate(660,200)">
+      <rect width="180" height="64" rx="6" fill="#170f28" stroke="#4c1d95" stroke-width="1"/>
+      <circle cx="20" cy="22" r="4.5" fill="#a855f7"/>
+      <text x="34" y="26" class="unit">MBD</text>
+      <text x="20" y="48" class="state">IN DEVELOPMENT</text>
+    </g>
+  </g>
 </svg>
