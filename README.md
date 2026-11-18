@@ -330,7 +330,9 @@ Local-first MCP config manager — satu perintah untuk sync & distribute konfigu
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=FynixorStudio&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" width="90%"/>
+<img src="https://img.shields.io/github/commit-activity/y/FynixorStudio?style=for-the-badge&color=8B5CF6&labelColor=05030d&label=COMMITS%2FY" alt="commit activity"/>
+<img src="https://img.shields.io/github/issues/FynixorStudio/FynixorStudio?style=for-the-badge&color=f59e0b&labelColor=05030d&label=ISSUES" alt="issues"/>
+<img src="https://img.shields.io/github/contributors/FynixorStudio/FynixorStudio?style=for-the-badge&color=22C55E&labelColor=05030d&label=CONTRIBUTORS" alt="contributors"/>
 
 <br/>
 
@@ -438,8 +440,6 @@ FynixorStudio/
 <img width="100%" src="https://raw.githubusercontent.com/FynixorStudio/FynixorStudio/main/header.svg" alt="Connect"/>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553cc.gif" width="100%" alt="Animated banner"/>
 
 <br/>
 
