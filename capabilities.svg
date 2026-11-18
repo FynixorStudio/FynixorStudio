@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460" role="img" aria-labelledby="t d">
+  <title id="t">Fynixor Studio capabilities</title>
+  <desc id="d">A visual board listing languages, platforms and services.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05030d"/>
+      <stop offset="1" stop-color="#170d31"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="1188" height="448" rx="26" fill="url(#bg)" stroke="#8B5CF6" stroke-width="4"/>
+  <rect x="6" y="6" width="1188" height="6" rx="3" fill="url(#line)"/>
+  <text x="600" y="58" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="30" font-weight="700" fill="#f4f1fa">FYNIXOR STUDIO <tspan fill="#22C55E">/ FULL STACK</tspan></text>
+  <text x="600" y="84" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="15" fill="#A78BFA">ALL LANGUAGES · ALL PLATFORMS · BUILT FROM SCRATCH</text>
+  <rect x="32" y="104" width="356" height="330" rx="16" fill="#0d081c" stroke="#8B5CF6" stroke-opacity="0.35" stroke-width="2"/>
+  <text x="210" y="136" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="17" font-weight="700" fill="#A78BFA">LANGUAGES</text>
+  <rect x="48" y="152" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="210" y="177" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">PHP</text>
+  <rect x="48" y="198" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="210" y="223" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">JavaScript</text>
+  <rect x="48" y="244" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="210" y="269" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">TypeScript</text>
+  <rect x="48" y="290" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="210" y="315" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">Python</text>
+  <rect x="48" y="336" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="210" y="361" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">Go</text>
+  <rect x="48" y="382" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="210" y="407" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">Java</text>
+  <rect x="48" y="428" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="210" y="453" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">C / C++</text>
+  <rect x="48" y="474" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="210" y="499" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">C#</text>
+  <rect x="48" y="520" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="210" y="545" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">Rust</text>
+  <rect x="48" y="566" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="210" y="591" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">SQL</text>
+  <rect x="48" y="612" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="210" y="637" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">HTML / CSS</text>
+  <rect x="412" y="104" width="356" height="330" rx="16" fill="#0d081c" stroke="#8B5CF6" stroke-opacity="0.35" stroke-width="2"/>
+  <text x="590" y="136" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="17" font-weight="700" fill="#A78BFA">PLATFORMS</text>
+  <rect x="428" y="152" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="590" y="177" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">Linux</text>
+  <rect x="428" y="198" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="590" y="223" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">Windows</text>
+  <rect x="428" y="244" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="590" y="269" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">Android</text>
+  <rect x="428" y="290" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="590" y="315" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">Cloud</text>
+  <rect x="428" y="336" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="590" y="361" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">Windows RDP</text>
+  <rect x="428" y="382" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="590" y="407" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">Web</text>
+  <rect x="428" y="428" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="590" y="453" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">Telegram</text>
+  <rect x="428" y="474" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="590" y="499" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">WhatsApp</text>
+  <rect x="792" y="104" width="356" height="330" rx="16" fill="#0d081c" stroke="#8B5CF6" stroke-opacity="0.35" stroke-width="2"/>
+  <text x="970" y="136" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="17" font-weight="700" fill="#A78BFA">SERVICES</text>
+  <rect x="808" y="152" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="970" y="177" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">Website</text>
+  <rect x="808" y="198" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="970" y="223" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">Bot</text>
+  <rect x="808" y="244" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="970" y="269" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">Automation</text>
+  <rect x="808" y="290" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="970" y="315" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">Backend</text>
+  <rect x="808" y="336" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="970" y="361" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">Database</text>
+  <rect x="808" y="382" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="970" y="407" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">UI / UX</text>
+  <rect x="808" y="428" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="970" y="453" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">DevOps</text>
+  <rect x="808" y="474" width="324" height="38" rx="10" fill="#1b1033" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="970" y="499" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#f4f1fa">Security</text>
+  <text x="600" y="432" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#22C55E">✓ Siap freelance · commission · kolaborasi</text>
+</svg>
