@@ -1,0 +1,255 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1010" viewBox="0 0 1600 1010" role="img" aria-labelledby="capTitle capDesc">
+<title id="capTitle">Fynixor Studio capability matrix</title>
+<desc id="capDesc">72 capabilities grouped into six neat columns: languages, frontend, backend, data, cloud and devops, creative and tools.</desc>
+<defs>
+  <linearGradient id="capBg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#080611"/>
+    <stop offset="1" stop-color="#17102b"/>
+  </linearGradient>
+  <linearGradient id="capLine" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#38bdf8"/>
+    <stop offset="0.5" stop-color="#a78bfa"/>
+    <stop offset="1" stop-color="#22c55e"/>
+  </linearGradient>
+  <pattern id="capGrid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#c4b5fd" stroke-opacity="0.06"/>
+  </pattern>
+</defs>
+<rect width="1600" height="1010" fill="url(#capBg)"/>
+<rect width="1600" height="1010" fill="url(#capGrid)"/>
+<rect x="0" y="0" width="1600" height="8" fill="url(#capLine)"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="44" y="66" font-size="43" font-weight="800" fill="#f8fafc" letter-spacing="-1">CAPABILITY <tspan fill="#a78bfa">MATRIX</tspan></text>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="46" y="100" font-size="19" fill="#a5b4fc" letter-spacing="2">72 ITEMS · 6 LANES · WHATEVER THE STACK NEEDS</text>
+
+<rect x="40" y="126" width="240" height="4" rx="2" fill="#38bdf8"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="40" y="152" font-size="17" font-weight="800" fill="#38bdf8" letter-spacing="1.6">LANGUAGES</text>
+<rect x="40" y="168" width="240" height="52" rx="13" fill="#100c1e" stroke="#38bdf8" stroke-opacity="0.28"/>
+<circle cx="60" cy="194" r="5" fill="#38bdf8"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="76" y="200" font-size="18" font-weight="600" fill="#e5e7eb">PHP</text>
+<rect x="40" y="230" width="240" height="52" rx="13" fill="#100c1e" stroke="#38bdf8" stroke-opacity="0.28"/>
+<circle cx="60" cy="256" r="5" fill="#38bdf8"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="76" y="262" font-size="18" font-weight="600" fill="#e5e7eb">JavaScript</text>
+<rect x="40" y="292" width="240" height="52" rx="13" fill="#100c1e" stroke="#38bdf8" stroke-opacity="0.28"/>
+<circle cx="60" cy="318" r="5" fill="#38bdf8"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="76" y="324" font-size="18" font-weight="600" fill="#e5e7eb">TypeScript</text>
+<rect x="40" y="354" width="240" height="52" rx="13" fill="#100c1e" stroke="#38bdf8" stroke-opacity="0.28"/>
+<circle cx="60" cy="380" r="5" fill="#38bdf8"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="76" y="386" font-size="18" font-weight="600" fill="#e5e7eb">Python</text>
+<rect x="40" y="416" width="240" height="52" rx="13" fill="#100c1e" stroke="#38bdf8" stroke-opacity="0.28"/>
+<circle cx="60" cy="442" r="5" fill="#38bdf8"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="76" y="448" font-size="18" font-weight="600" fill="#e5e7eb">Go</text>
+<rect x="40" y="478" width="240" height="52" rx="13" fill="#100c1e" stroke="#38bdf8" stroke-opacity="0.28"/>
+<circle cx="60" cy="504" r="5" fill="#38bdf8"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="76" y="510" font-size="18" font-weight="600" fill="#e5e7eb">Java</text>
+<rect x="40" y="540" width="240" height="52" rx="13" fill="#100c1e" stroke="#38bdf8" stroke-opacity="0.28"/>
+<circle cx="60" cy="566" r="5" fill="#38bdf8"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="76" y="572" font-size="18" font-weight="600" fill="#e5e7eb">C / C++</text>
+<rect x="40" y="602" width="240" height="52" rx="13" fill="#100c1e" stroke="#38bdf8" stroke-opacity="0.28"/>
+<circle cx="60" cy="628" r="5" fill="#38bdf8"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="76" y="634" font-size="18" font-weight="600" fill="#e5e7eb">C#</text>
+<rect x="40" y="664" width="240" height="52" rx="13" fill="#100c1e" stroke="#38bdf8" stroke-opacity="0.28"/>
+<circle cx="60" cy="690" r="5" fill="#38bdf8"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="76" y="696" font-size="18" font-weight="600" fill="#e5e7eb">Rust</text>
+<rect x="40" y="726" width="240" height="52" rx="13" fill="#100c1e" stroke="#38bdf8" stroke-opacity="0.28"/>
+<circle cx="60" cy="752" r="5" fill="#38bdf8"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="76" y="758" font-size="18" font-weight="600" fill="#e5e7eb">Ruby</text>
+<rect x="40" y="788" width="240" height="52" rx="13" fill="#100c1e" stroke="#38bdf8" stroke-opacity="0.28"/>
+<circle cx="60" cy="814" r="5" fill="#38bdf8"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="76" y="820" font-size="18" font-weight="600" fill="#e5e7eb">Swift</text>
+<rect x="40" y="850" width="240" height="52" rx="13" fill="#100c1e" stroke="#38bdf8" stroke-opacity="0.28"/>
+<circle cx="60" cy="876" r="5" fill="#38bdf8"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="76" y="882" font-size="18" font-weight="600" fill="#e5e7eb">Kotlin</text>
+<rect x="296" y="126" width="240" height="4" rx="2" fill="#c084fc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="296" y="152" font-size="17" font-weight="800" fill="#c084fc" letter-spacing="1.6">FRONTEND</text>
+<rect x="296" y="168" width="240" height="52" rx="13" fill="#100c1e" stroke="#c084fc" stroke-opacity="0.28"/>
+<circle cx="316" cy="194" r="5" fill="#c084fc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="332" y="200" font-size="18" font-weight="600" fill="#e5e7eb">HTML</text>
+<rect x="296" y="230" width="240" height="52" rx="13" fill="#100c1e" stroke="#c084fc" stroke-opacity="0.28"/>
+<circle cx="316" cy="256" r="5" fill="#c084fc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="332" y="262" font-size="18" font-weight="600" fill="#e5e7eb">CSS</text>
+<rect x="296" y="292" width="240" height="52" rx="13" fill="#100c1e" stroke="#c084fc" stroke-opacity="0.28"/>
+<circle cx="316" cy="318" r="5" fill="#c084fc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="332" y="324" font-size="18" font-weight="600" fill="#e5e7eb">Sass</text>
+<rect x="296" y="354" width="240" height="52" rx="13" fill="#100c1e" stroke="#c084fc" stroke-opacity="0.28"/>
+<circle cx="316" cy="380" r="5" fill="#c084fc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="332" y="386" font-size="18" font-weight="600" fill="#e5e7eb">React</text>
+<rect x="296" y="416" width="240" height="52" rx="13" fill="#100c1e" stroke="#c084fc" stroke-opacity="0.28"/>
+<circle cx="316" cy="442" r="5" fill="#c084fc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="332" y="448" font-size="18" font-weight="600" fill="#e5e7eb">Vue</text>
+<rect x="296" y="478" width="240" height="52" rx="13" fill="#100c1e" stroke="#c084fc" stroke-opacity="0.28"/>
+<circle cx="316" cy="504" r="5" fill="#c084fc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="332" y="510" font-size="18" font-weight="600" fill="#e5e7eb">Angular</text>
+<rect x="296" y="540" width="240" height="52" rx="13" fill="#100c1e" stroke="#c084fc" stroke-opacity="0.28"/>
+<circle cx="316" cy="566" r="5" fill="#c084fc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="332" y="572" font-size="18" font-weight="600" fill="#e5e7eb">Next.js</text>
+<rect x="296" y="602" width="240" height="52" rx="13" fill="#100c1e" stroke="#c084fc" stroke-opacity="0.28"/>
+<circle cx="316" cy="628" r="5" fill="#c084fc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="332" y="634" font-size="18" font-weight="600" fill="#e5e7eb">Tailwind</text>
+<rect x="296" y="664" width="240" height="52" rx="13" fill="#100c1e" stroke="#c084fc" stroke-opacity="0.28"/>
+<circle cx="316" cy="690" r="5" fill="#c084fc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="332" y="696" font-size="18" font-weight="600" fill="#e5e7eb">Bootstrap</text>
+<rect x="296" y="726" width="240" height="52" rx="13" fill="#100c1e" stroke="#c084fc" stroke-opacity="0.28"/>
+<circle cx="316" cy="752" r="5" fill="#c084fc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="332" y="758" font-size="18" font-weight="600" fill="#e5e7eb">Svelte</text>
+<rect x="296" y="788" width="240" height="52" rx="13" fill="#100c1e" stroke="#c084fc" stroke-opacity="0.28"/>
+<circle cx="316" cy="814" r="5" fill="#c084fc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="332" y="820" font-size="18" font-weight="600" fill="#e5e7eb">Astro</text>
+<rect x="296" y="850" width="240" height="52" rx="13" fill="#100c1e" stroke="#c084fc" stroke-opacity="0.28"/>
+<circle cx="316" cy="876" r="5" fill="#c084fc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="332" y="882" font-size="18" font-weight="600" fill="#e5e7eb">Electron</text>
+<rect x="552" y="126" width="240" height="4" rx="2" fill="#34d399"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="552" y="152" font-size="17" font-weight="800" fill="#34d399" letter-spacing="1.6">BACKEND</text>
+<rect x="552" y="168" width="240" height="52" rx="13" fill="#100c1e" stroke="#34d399" stroke-opacity="0.28"/>
+<circle cx="572" cy="194" r="5" fill="#34d399"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="588" y="200" font-size="18" font-weight="600" fill="#e5e7eb">Node.js</text>
+<rect x="552" y="230" width="240" height="52" rx="13" fill="#100c1e" stroke="#34d399" stroke-opacity="0.28"/>
+<circle cx="572" cy="256" r="5" fill="#34d399"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="588" y="262" font-size="18" font-weight="600" fill="#e5e7eb">Express</text>
+<rect x="552" y="292" width="240" height="52" rx="13" fill="#100c1e" stroke="#34d399" stroke-opacity="0.28"/>
+<circle cx="572" cy="318" r="5" fill="#34d399"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="588" y="324" font-size="18" font-weight="600" fill="#e5e7eb">Laravel</text>
+<rect x="552" y="354" width="240" height="52" rx="13" fill="#100c1e" stroke="#34d399" stroke-opacity="0.28"/>
+<circle cx="572" cy="380" r="5" fill="#34d399"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="588" y="386" font-size="18" font-weight="600" fill="#e5e7eb">Django</text>
+<rect x="552" y="416" width="240" height="52" rx="13" fill="#100c1e" stroke="#34d399" stroke-opacity="0.28"/>
+<circle cx="572" cy="442" r="5" fill="#34d399"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="588" y="448" font-size="18" font-weight="600" fill="#e5e7eb">Flask</text>
+<rect x="552" y="478" width="240" height="52" rx="13" fill="#100c1e" stroke="#34d399" stroke-opacity="0.28"/>
+<circle cx="572" cy="504" r="5" fill="#34d399"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="588" y="510" font-size="18" font-weight="600" fill="#e5e7eb">FastAPI</text>
+<rect x="552" y="540" width="240" height="52" rx="13" fill="#100c1e" stroke="#34d399" stroke-opacity="0.28"/>
+<circle cx="572" cy="566" r="5" fill="#34d399"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="588" y="572" font-size="18" font-weight="600" fill="#e5e7eb">Spring Boot</text>
+<rect x="552" y="602" width="240" height="52" rx="13" fill="#100c1e" stroke="#34d399" stroke-opacity="0.28"/>
+<circle cx="572" cy="628" r="5" fill="#34d399"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="588" y="634" font-size="18" font-weight="600" fill="#e5e7eb">NestJS</text>
+<rect x="552" y="664" width="240" height="52" rx="13" fill="#100c1e" stroke="#34d399" stroke-opacity="0.28"/>
+<circle cx="572" cy="690" r="5" fill="#34d399"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="588" y="696" font-size="18" font-weight="600" fill="#e5e7eb">GraphQL</text>
+<rect x="552" y="726" width="240" height="52" rx="13" fill="#100c1e" stroke="#34d399" stroke-opacity="0.28"/>
+<circle cx="572" cy="752" r="5" fill="#34d399"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="588" y="758" font-size="18" font-weight="600" fill="#e5e7eb">REST API</text>
+<rect x="552" y="788" width="240" height="52" rx="13" fill="#100c1e" stroke="#34d399" stroke-opacity="0.28"/>
+<circle cx="572" cy="814" r="5" fill="#34d399"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="588" y="820" font-size="18" font-weight="600" fill="#e5e7eb">WebSocket</text>
+<rect x="552" y="850" width="240" height="52" rx="13" fill="#100c1e" stroke="#34d399" stroke-opacity="0.28"/>
+<circle cx="572" cy="876" r="5" fill="#34d399"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="588" y="882" font-size="18" font-weight="600" fill="#e5e7eb">Firebase</text>
+<rect x="808" y="126" width="240" height="4" rx="2" fill="#fbbf24"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="808" y="152" font-size="17" font-weight="800" fill="#fbbf24" letter-spacing="1.6">DATA</text>
+<rect x="808" y="168" width="240" height="52" rx="13" fill="#100c1e" stroke="#fbbf24" stroke-opacity="0.28"/>
+<circle cx="828" cy="194" r="5" fill="#fbbf24"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="844" y="200" font-size="18" font-weight="600" fill="#e5e7eb">MySQL</text>
+<rect x="808" y="230" width="240" height="52" rx="13" fill="#100c1e" stroke="#fbbf24" stroke-opacity="0.28"/>
+<circle cx="828" cy="256" r="5" fill="#fbbf24"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="844" y="262" font-size="18" font-weight="600" fill="#e5e7eb">PostgreSQL</text>
+<rect x="808" y="292" width="240" height="52" rx="13" fill="#100c1e" stroke="#fbbf24" stroke-opacity="0.28"/>
+<circle cx="828" cy="318" r="5" fill="#fbbf24"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="844" y="324" font-size="18" font-weight="600" fill="#e5e7eb">MongoDB</text>
+<rect x="808" y="354" width="240" height="52" rx="13" fill="#100c1e" stroke="#fbbf24" stroke-opacity="0.28"/>
+<circle cx="828" cy="380" r="5" fill="#fbbf24"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="844" y="386" font-size="18" font-weight="600" fill="#e5e7eb">Redis</text>
+<rect x="808" y="416" width="240" height="52" rx="13" fill="#100c1e" stroke="#fbbf24" stroke-opacity="0.28"/>
+<circle cx="828" cy="442" r="5" fill="#fbbf24"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="844" y="448" font-size="18" font-weight="600" fill="#e5e7eb">SQLite</text>
+<rect x="808" y="478" width="240" height="52" rx="13" fill="#100c1e" stroke="#fbbf24" stroke-opacity="0.28"/>
+<circle cx="828" cy="504" r="5" fill="#fbbf24"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="844" y="510" font-size="18" font-weight="600" fill="#e5e7eb">MariaDB</text>
+<rect x="808" y="540" width="240" height="52" rx="13" fill="#100c1e" stroke="#fbbf24" stroke-opacity="0.28"/>
+<circle cx="828" cy="566" r="5" fill="#fbbf24"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="844" y="572" font-size="18" font-weight="600" fill="#e5e7eb">Oracle</text>
+<rect x="808" y="602" width="240" height="52" rx="13" fill="#100c1e" stroke="#fbbf24" stroke-opacity="0.28"/>
+<circle cx="828" cy="628" r="5" fill="#fbbf24"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="844" y="634" font-size="18" font-weight="600" fill="#e5e7eb">Neo4j</text>
+<rect x="808" y="664" width="240" height="52" rx="13" fill="#100c1e" stroke="#fbbf24" stroke-opacity="0.28"/>
+<circle cx="828" cy="690" r="5" fill="#fbbf24"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="844" y="696" font-size="18" font-weight="600" fill="#e5e7eb">Elasticsearch</text>
+<rect x="808" y="726" width="240" height="52" rx="13" fill="#100c1e" stroke="#fbbf24" stroke-opacity="0.28"/>
+<circle cx="828" cy="752" r="5" fill="#fbbf24"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="844" y="758" font-size="18" font-weight="600" fill="#e5e7eb">Kafka</text>
+<rect x="808" y="788" width="240" height="52" rx="13" fill="#100c1e" stroke="#fbbf24" stroke-opacity="0.28"/>
+<circle cx="828" cy="814" r="5" fill="#fbbf24"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="844" y="820" font-size="18" font-weight="600" fill="#e5e7eb">Pandas</text>
+<rect x="808" y="850" width="240" height="52" rx="13" fill="#100c1e" stroke="#fbbf24" stroke-opacity="0.28"/>
+<circle cx="828" cy="876" r="5" fill="#fbbf24"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="844" y="882" font-size="18" font-weight="600" fill="#e5e7eb">NumPy</text>
+<rect x="1064" y="126" width="240" height="4" rx="2" fill="#fb7185"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1064" y="152" font-size="17" font-weight="800" fill="#fb7185" letter-spacing="1.6">CLOUD &amp; DEVOPS</text>
+<rect x="1064" y="168" width="240" height="52" rx="13" fill="#100c1e" stroke="#fb7185" stroke-opacity="0.28"/>
+<circle cx="1084" cy="194" r="5" fill="#fb7185"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1100" y="200" font-size="18" font-weight="600" fill="#e5e7eb">Git</text>
+<rect x="1064" y="230" width="240" height="52" rx="13" fill="#100c1e" stroke="#fb7185" stroke-opacity="0.28"/>
+<circle cx="1084" cy="256" r="5" fill="#fb7185"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1100" y="262" font-size="18" font-weight="600" fill="#e5e7eb">GitHub Actions</text>
+<rect x="1064" y="292" width="240" height="52" rx="13" fill="#100c1e" stroke="#fb7185" stroke-opacity="0.28"/>
+<circle cx="1084" cy="318" r="5" fill="#fb7185"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1100" y="324" font-size="18" font-weight="600" fill="#e5e7eb">Docker</text>
+<rect x="1064" y="354" width="240" height="52" rx="13" fill="#100c1e" stroke="#fb7185" stroke-opacity="0.28"/>
+<circle cx="1084" cy="380" r="5" fill="#fb7185"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1100" y="386" font-size="18" font-weight="600" fill="#e5e7eb">Kubernetes</text>
+<rect x="1064" y="416" width="240" height="52" rx="13" fill="#100c1e" stroke="#fb7185" stroke-opacity="0.28"/>
+<circle cx="1084" cy="442" r="5" fill="#fb7185"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1100" y="448" font-size="18" font-weight="600" fill="#e5e7eb">Terraform</text>
+<rect x="1064" y="478" width="240" height="52" rx="13" fill="#100c1e" stroke="#fb7185" stroke-opacity="0.28"/>
+<circle cx="1084" cy="504" r="5" fill="#fb7185"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1100" y="510" font-size="18" font-weight="600" fill="#e5e7eb">Ansible</text>
+<rect x="1064" y="540" width="240" height="52" rx="13" fill="#100c1e" stroke="#fb7185" stroke-opacity="0.28"/>
+<circle cx="1084" cy="566" r="5" fill="#fb7185"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1100" y="572" font-size="18" font-weight="600" fill="#e5e7eb">Jenkins</text>
+<rect x="1064" y="602" width="240" height="52" rx="13" fill="#100c1e" stroke="#fb7185" stroke-opacity="0.28"/>
+<circle cx="1084" cy="628" r="5" fill="#fb7185"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1100" y="634" font-size="18" font-weight="600" fill="#e5e7eb">Linux</text>
+<rect x="1064" y="664" width="240" height="52" rx="13" fill="#100c1e" stroke="#fb7185" stroke-opacity="0.28"/>
+<circle cx="1084" cy="690" r="5" fill="#fb7185"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1100" y="696" font-size="18" font-weight="600" fill="#e5e7eb">Windows</text>
+<rect x="1064" y="726" width="240" height="52" rx="13" fill="#100c1e" stroke="#fb7185" stroke-opacity="0.28"/>
+<circle cx="1084" cy="752" r="5" fill="#fb7185"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1100" y="758" font-size="18" font-weight="600" fill="#e5e7eb">AWS</text>
+<rect x="1064" y="788" width="240" height="52" rx="13" fill="#100c1e" stroke="#fb7185" stroke-opacity="0.28"/>
+<circle cx="1084" cy="814" r="5" fill="#fb7185"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1100" y="820" font-size="18" font-weight="600" fill="#e5e7eb">GCP</text>
+<rect x="1064" y="850" width="240" height="52" rx="13" fill="#100c1e" stroke="#fb7185" stroke-opacity="0.28"/>
+<circle cx="1084" cy="876" r="5" fill="#fb7185"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1100" y="882" font-size="18" font-weight="600" fill="#e5e7eb">Azure</text>
+<rect x="1320" y="126" width="240" height="4" rx="2" fill="#f0abfc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1320" y="152" font-size="17" font-weight="800" fill="#f0abfc" letter-spacing="1.6">CREATIVE &amp; TOOLS</text>
+<rect x="1320" y="168" width="240" height="52" rx="13" fill="#100c1e" stroke="#f0abfc" stroke-opacity="0.28"/>
+<circle cx="1340" cy="194" r="5" fill="#f0abfc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1356" y="200" font-size="18" font-weight="600" fill="#e5e7eb">Figma</text>
+<rect x="1320" y="230" width="240" height="52" rx="13" fill="#100c1e" stroke="#f0abfc" stroke-opacity="0.28"/>
+<circle cx="1340" cy="256" r="5" fill="#f0abfc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1356" y="262" font-size="18" font-weight="600" fill="#e5e7eb">Adobe</text>
+<rect x="1320" y="292" width="240" height="52" rx="13" fill="#100c1e" stroke="#f0abfc" stroke-opacity="0.28"/>
+<circle cx="1340" cy="318" r="5" fill="#f0abfc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1356" y="324" font-size="18" font-weight="600" fill="#e5e7eb">Postman</text>
+<rect x="1320" y="354" width="240" height="52" rx="13" fill="#100c1e" stroke="#f0abfc" stroke-opacity="0.28"/>
+<circle cx="1340" cy="380" r="5" fill="#f0abfc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1356" y="386" font-size="18" font-weight="600" fill="#e5e7eb">Insomnia</text>
+<rect x="1320" y="416" width="240" height="52" rx="13" fill="#100c1e" stroke="#f0abfc" stroke-opacity="0.28"/>
+<circle cx="1340" cy="442" r="5" fill="#f0abfc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1356" y="448" font-size="18" font-weight="600" fill="#e5e7eb">Telegram</text>
+<rect x="1320" y="478" width="240" height="52" rx="13" fill="#100c1e" stroke="#f0abfc" stroke-opacity="0.28"/>
+<circle cx="1340" cy="504" r="5" fill="#f0abfc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1356" y="510" font-size="18" font-weight="600" fill="#e5e7eb">WhatsApp</text>
+<rect x="1320" y="540" width="240" height="52" rx="13" fill="#100c1e" stroke="#f0abfc" stroke-opacity="0.28"/>
+<circle cx="1340" cy="566" r="5" fill="#f0abfc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1356" y="572" font-size="18" font-weight="600" fill="#e5e7eb">Fiverr</text>
+<rect x="1320" y="602" width="240" height="52" rx="13" fill="#100c1e" stroke="#f0abfc" stroke-opacity="0.28"/>
+<circle cx="1340" cy="628" r="5" fill="#f0abfc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1356" y="634" font-size="18" font-weight="600" fill="#e5e7eb">Instagram</text>
+<rect x="1320" y="664" width="240" height="52" rx="13" fill="#100c1e" stroke="#f0abfc" stroke-opacity="0.28"/>
+<circle cx="1340" cy="690" r="5" fill="#f0abfc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1356" y="696" font-size="18" font-weight="600" fill="#e5e7eb">Gmail</text>
+<rect x="1320" y="726" width="240" height="52" rx="13" fill="#100c1e" stroke="#f0abfc" stroke-opacity="0.28"/>
+<circle cx="1340" cy="752" r="5" fill="#f0abfc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1356" y="758" font-size="18" font-weight="600" fill="#e5e7eb">Notion</text>
+<rect x="1320" y="788" width="240" height="52" rx="13" fill="#100c1e" stroke="#f0abfc" stroke-opacity="0.28"/>
+<circle cx="1340" cy="814" r="5" fill="#f0abfc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1356" y="820" font-size="18" font-weight="600" fill="#e5e7eb">Trello</text>
+<rect x="1320" y="850" width="240" height="52" rx="13" fill="#100c1e" stroke="#f0abfc" stroke-opacity="0.28"/>
+<circle cx="1340" cy="876" r="5" fill="#f0abfc"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1356" y="882" font-size="18" font-weight="600" fill="#e5e7eb">VS Code</text>
+<rect x="40" y="930" width="1520" height="1" fill="#c4b5fd" opacity="0.18"/>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="44" y="970" font-size="18" fill="#94a3b8">Fynixor Studio · one person, every stack · built from scratch</text>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="1556" y="970" text-anchor="end" font-size="18" font-weight="700" fill="#a78bfa">72 / 72 READY</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="260" viewBox="0 0 1600 260" role="img" aria-labelledby="footerTitle footerDesc">
+<title id="footerTitle">Fynixor Studio contact banner</title>
+<desc id="footerDesc">Let's build something. Contact Fynixor Studio on Telegram, email, Fiverr, Instagram, and GitHub.</desc>
+<defs>
+  <linearGradient id="footBg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#4c1d95"/>
+    <stop offset="0.5" stop-color="#1e1638"/>
+    <stop offset="1" stop-color="#07050f"/>
+  </linearGradient>
+  <linearGradient id="footLine" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22c55e"/>
+    <stop offset="0.5" stop-color="#a78bfa"/>
+    <stop offset="1" stop-color="#38bdf8"/>
+  </linearGradient>
+</defs>
+<rect width="1600" height="260" fill="url(#footBg)"/>
+<path d="M0 190 C260 130 420 240 700 185 C980 130 1180 230 1600 160 L1600 260 L0 260 Z" fill="#07050f" opacity="0.45"/>
+<rect x="0" y="0" width="1600" height="7" fill="url(#footLine)"/>
+
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="70" y="105" font-size="62" font-weight="800" fill="#f8fafc" letter-spacing="-2">LET'S BUILD <tspan fill="#a78bfa">SOMETHING</tspan></text>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="74" y="150" font-size="21" fill="#ddd6fe" letter-spacing="2">ALL LANGUAGES · ALL TOOLS · ALL PLATFORMS</text>
+<text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="74" y="185" font-size="18" fill="#94a3b8">Freelance, kolaborasi, atau sekadar ngobrol stack — gw sedia.</text>
+
+<g transform="translate(1000 46)">
+  <rect width="520" height="168" rx="24" fill="#0b0714" stroke="#a78bfa" stroke-opacity="0.35"/>
+  <text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="28" y="42" font-size="15" font-weight="700" fill="#a78bfa" letter-spacing="2">DIRECT LINES</text>
+  <text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="28" y="78" font-size="19" fill="#e5e7eb">TELEGRAM   @fynixorstudio</text>
+  <text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="28" y="108" font-size="19" fill="#e5e7eb">EMAIL      fynixorstudio@gmail.com</text>
+  <text font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" x="28" y="138" font-size="19" fill="#e5e7eb">FIVERR     /fynixorstudio</text>
+</g>
+</svg>
