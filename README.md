@@ -174,8 +174,8 @@ const studio = {
 
 **🐾 Neko Visitor Counter**
 
-<a href="https://count.getloli.com/@FynixorStudio-profile?theme=random">
-  <img src="https://count.getloli.com/@FynixorStudio-profile?theme=random&amp;scale=1.2" alt="Random visitor counter — Fynixor Studio"/>
+<a href="https://count.getloli.com/@FynixorStudio-profile?theme=cat-girls-yay">
+  <img src="https://count.getloli.com/@FynixorStudio-profile?theme=cat-girls-yay&amp;scale=1.2" alt="Neko girl visitor counter — Fynixor Studio"/>
 </a>
 
 <br/><br/>
