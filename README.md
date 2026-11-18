@@ -172,7 +172,11 @@ const studio = {
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=FynixorStudio&amp;label=PROFILE%20VIEWS&amp;color=A78BFA&amp;style=flat-square" alt="Profile views"/>
+**🐾 Neko Visitor Counter**
+
+<a href="https://count.getloli.com/@FynixorStudio-profile?theme=cat">
+  <img src="https://count.getloli.com/@FynixorStudio-profile?theme=cat&amp;scale=1.2" alt="Neko visitor counter — Fynixor Studio"/>
+</a>
 <img src="https://img.shields.io/github/followers/FynixorStudio?style=flat-square&amp;logo=github&amp;logoColor=white&amp;color=A78BFA&amp;labelColor=0B0714&amp;label=FOLLOWERS" alt="Followers"/>
 <img src="https://img.shields.io/github/stars/FynixorStudio?style=flat-square&amp;logo=github&amp;logoColor=white&amp;color=22C55E&amp;labelColor=0B0714&amp;label=STARS" alt="Stars"/>
 
