@@ -4,13 +4,13 @@
 
 # Fynixor Studio
 
-<a href="https://github.com/FynixorStudio"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Founder+%26+Developer+%40+Fynixor+Studio;ALL+LANGUAGES+%C2%B7+ALL+PLATFORMS+%C2%B7+ALL+PROJECTS;Website+%C2%B7+Bot+%C2%B7+Script+%C2%B7+Automation+%C2%B7+Cloud" alt="Typing SVG" /></a>
+<a href="https://github.com/FynixorStudio"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=ALL+LANGUAGES+%C2%B7+ALL+TOOLS+%C2%B7+ALL+PLATFORMS;Website+%C2%B7+Mobile+%C2%B7+Desktop+%C2%B7+Bot+%C2%B7+Automation;Built+from+scratch+%C2%B7+Freelance+%C2%B7+Commission" alt="Typing SVG" /></a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/ALL%20LANGUAGES-%E2%9C%93-22C55E?style=for-the-badge&labelColor=05030d" alt="all languages"/>
+<img src="https://img.shields.io/badge/ALL%20TOOLS-%E2%9C%93-22C55E?style=for-the-badge&labelColor=05030d" alt="all tools"/>
 <img src="https://img.shields.io/badge/ALL%20PLATFORMS-%E2%9C%93-22C55E?style=for-the-badge&labelColor=05030d" alt="all platforms"/>
-<img src="https://img.shields.io/badge/BUILT%20FROM%20SCRATCH-%E2%9C%93-8B5CF6?style=for-the-badge&labelColor=05030d" alt="from scratch"/>
 <img src="https://img.shields.io/badge/OPEN%20FOR-FREELANCE-22C55E?style=for-the-badge&labelColor=05030d" alt="open for"/>
 <img src="https://img.shields.io/github/followers/FynixorStudio?style=for-the-badge&color=8B5CF6&labelColor=05030d&label=FOLLOWERS" alt="followers"/>
 
@@ -20,7 +20,7 @@
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/FynixorStudio/FynixorStudio/main/capabilities.svg" alt="Fynixor Studio capabilities board"/>
+<img width="100%" src="https://raw.githubusercontent.com/FynixorStudio/FynixorStudio/main/capabilities.svg" alt="Fynixor Studio capabilities board — 72 capabilities in 4 categories"/>
 
 </div>
 
@@ -54,13 +54,12 @@
 <img src="https://img.shields.io/badge/FOUNDER-Single--founder-8B5CF6?style=flat-square&labelColor=05030d" alt="founder"/>
 <img src="https://img.shields.io/badge/EST.-2023-8B5CF6?style=flat-square&labelColor=05030d" alt="est"/>
 <img src="https://img.shields.io/badge/BASED_IN-Indonesia-A855F7?style=flat-square&labelColor=05030d" alt="location"/>
-<img src="https://img.shields.io/badge/REPOS-3-28a745?style=flat-square&labelColor=05030d" alt="repos"/>
-<img src="https://img.shields.io/badge/LANGUAGES-ALL-22C55E?style=flat-square&labelColor=05030d" alt="languages"/>
+<img src="https://img.shields.io/badge/CAPABILITIES-72-22C55E?style=flat-square&labelColor=05030d" alt="capabilities"/>
 <img src="https://img.shields.io/badge/LICENSE-Apache--2.0-6D28D9?style=flat-square&labelColor=05030d" alt="license"/>
 
 </div>
 
-**Fynixor Studio** — studio digital satu orang, berbasis di Indonesia, sejak 2023. Gue bangun produk sendiri lewat **Vorhex Store**, terima kerjaan lewat **Lumina Worksite**, dan terus eksperimen lewat **VTuber Agency** dan **MBD**.
+**Fynixor Studio** — studio digital satu orang, berbasis di Indonesia, sejak 2023. Produk sendiri lewat **Vorhex Store**, jasa lewat **Lumina Worksite**, eksperimen lewat **VTuber Agency** dan **MBD**.
 
 | 🛒 Vorhex Store | 💼 Lumina Worksite | 🎨 VTuber Agency | 🛡️ MBD |
 | :---: | :---: | :---: | :---: |
@@ -73,61 +72,98 @@
 
 ## <img src="https://img.shields.io/badge/02-Kemampuan-22C55E?style=flat-square&logo=checkmarx&logoColor=white" alt="Kemampuan">
 
-### Bisa semua bahasa pemrograman. Bisa semua jenis project.
+### Bisa semua bahasa pemrograman. Bisa semua tools. Bisa semua jenis project.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,go,java,c,cpp,csharp,rust,ruby,swift,kotlin,sql,html,css&theme=dark" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,go,java,c,cpp,csharp,rust,ruby,swift,kotlin,scala,dart,sql,html,css,sass&theme=dark" alt="stack row 1"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,nodejs,express,laravel,django,flask,fastapi,springboot&theme=dark" alt="frameworks"/>
+<img src="https://skillicons.dev/icons?i=bash,powershell,lua,perl,r,julia,haskell,elixir,clojure,groovy,objectivec,ocaml,fortran,matlab,json,yaml,toml,xml&theme=dark" alt="stack row 2"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,sqlite&theme=dark" alt="databases"/>
+<img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,nodejs,express,laravel,django,flask,fastapi,springboot,tailwind,bootstrap,svelte,astro,nestjs,graphql,electron&theme=dark" alt="stack row 3"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,linux,windows,androidstudio,termux,vercel,netlify,cloudflare,aws,gcp,azure,figma&theme=dark" alt="tools"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,sqlite,mariadb,oracle,couchdb,neo4j,elasticsearch,kafka,pandas,numpy&theme=dark" alt="stack row 4"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,githubactions,docker,kubernetes,terraform,ansible,jenkins,linux,windows,android,ios,termux,aws,gcp,azure,vercel,netlify,cloudflare&theme=dark" alt="stack row 5"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=figma,sketch,adobe,postman,insomnia,telegram,whatsapp,fiverr,instagram,gmail,notion,trello,slack,discord,zoom&theme=dark" alt="stack row 6"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,jetbrains,intellij,pycharm,webstorm,sublime,atom,vim,emacs,nano,powershell,bash,terminal&theme=dark" alt="stack row 7"/>
 
 </div>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-A97BEF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodejs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
+<img src="https://img.shields.io/badge/Electron-2F3242?style=for-the-badge&logo=electron&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-447AFF?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
 </div>
 
-### Apa saja yang bisa dikerjakan
+### Cakupan kemampuan
 
-| Kategori | Kemampuan | Status |
+| Kategori | Detail | Status |
 | :--- | :--- | :---: |
-| 🌐 **Web** | Landing page, web app, dashboard, UI/UX, frontend & backend | ✅ |
-| 📱 **Mobile** | Android, cross-platform, integrasi API | ✅ |
-| 💻 **Desktop** | Aplikasi desktop, tooling, script lokal | ✅ |
-| 🤖 **Bot** | Telegram & WhatsApp, bot control, automation chat | ✅ |
-| ⚙️ **Automation** | Script, workflow, cron, integrasi antar layanan | ✅ |
-| 🗄️ **Backend** | REST API, database, Firebase, autentikasi | ✅ |
-| 🎨 **UI/UX** | Desain antarmuka, SVG, aset visual, prototype | ✅ |
-| ☁️ **Cloud & DevOps** | Cloud, RDP, Docker, CI/CD, deployment | ✅ |
-| 🔐 **Security** | Riset & tooling keamanan (sistem sendiri/berizin) | ✅ |
-| 📊 **Data & AI** | Integrasi data, API AI, pipeline sederhana | ✅ |
-| 🔧 **Maintenance** | Perbaikan, refactoring, pengembangan lanjutan | ✅ |
-| 💬 **Konsultasi** | Diskusi teknis, arsitektur, estimasi | ✅ |
+| 🌐 Website & Web App | Landing page, dashboard, frontend, backend, full-stack | ✅ |
+| 📱 Mobile | Android, cross-platform, integrasi API | ✅ |
+| 💻 Desktop | Aplikasi desktop, tooling, script lokal | ✅ |
+| 🤖 Bot | Telegram & WhatsApp, bot control, automation chat | ✅ |
+| ⚙️ Script & Automation | Cron, workflow, integrasi antar layanan | ✅ |
+| 🗄️ Backend & API | REST API, autentikasi, database, Firebase | ✅ |
+| 🎨 UI/UX & Aset | Desain antarmuka, SVG, banner, logo | ✅ |
+| ☁️ Cloud & DevOps | Cloud, RDP, Docker, Kubernetes, CI/CD | ✅ |
+| 🔐 Security | Riset & tooling (sistem sendiri/berizin) | ✅ |
+| 📊 Data & AI | Pipeline data, integrasi API AI | ✅ |
+| 🧪 Testing | Unit test, smoke test, QA | ✅ |
+| 🔌 Integrasi | Payment, third-party API, webhook | ✅ |
+| 🔧 Maintenance | Refactoring, perbaikan, lanjutan | ✅ |
+| 💬 Konsultasi | Arsitektur, estimasi, diskusi teknis | ✅ |
 
 ---
 
@@ -220,11 +256,11 @@ Local-first MCP config manager — satu perintah untuk sync & distribute konfigu
 
 | Kategori | Stack |
 | :--- | :--- |
-| Bahasa | PHP · JavaScript · TypeScript · Python · Go · Java · C/C++ · C# · Rust · Ruby · Swift · Kotlin · SQL |
-| Frontend | HTML · CSS · React · Vue · Angular · Next.js |
+| Bahasa | PHP · JavaScript · TypeScript · Python · Go · Java · C/C++ · C# · Rust · Ruby · Swift · Kotlin · Scala · Dart · SQL · HTML/CSS |
+| Frontend | HTML · CSS · React · Vue · Angular · Next.js · Tailwind · Bootstrap · Svelte |
 | Backend | Node.js · Express · Laravel · Django · Flask · FastAPI · Spring Boot |
 | Database | MySQL · PostgreSQL · MongoDB · Redis · Firebase · SQLite |
-| DevOps | Git · GitHub Actions · Docker · Kubernetes · Vercel · Netlify · Cloudflare |
+| DevOps | Git · GitHub Actions · Docker · Kubernetes · Terraform · Vercel · Netlify · Cloudflare |
 | Platform | Linux · Windows · Android · AWS · GCP · Azure · Cloud |
 
 ---
@@ -278,7 +314,7 @@ Local-first MCP config manager — satu perintah untuk sync & distribute konfigu
 
 <details><summary><b>Terima kerjaan dari luar?</b></summary><br/>Terima lewat Lumina Worksite: website, bot, script, automation, backend, integrasi API. Via Fiverr, Telegram, atau email.</details>
 
-<details><summary><b>Bisa bahasa apa saja?</b></summary><br/>Semua yang dibutuhkan project: PHP, JavaScript/TypeScript, Python, Go, Java, C/C++, C#, Rust, Ruby, Swift, Kotlin, SQL, HTML/CSS, dan lain-lain.</details>
+<details><summary><b>Bisa bahasa & tools apa saja?</b></summary><br/>Semua yang dibutuhkan project — lihat papan kapabilitas di atas: 18 bahasa, 18 framework, 18 data/cloud tool, 18 layanan.</details>
 
 <details><summary><b>MBD itu apa?</b></summary><br/>Riset & tools keamanan. Pengujian hanya di sistem sendiri atau yang berizin tertulis.</details>
 
@@ -295,7 +331,7 @@ Local-first MCP config manager — satu perintah untuk sync & distribute konfigu
 | Aset | Preview | Fungsi |
 | :--- | :---: | :--- |
 | <a href="https://github.com/FynixorStudio/FynixorStudio/blob/main/logo.svg">logo.svg</a> | <img src="https://raw.githubusercontent.com/FynixorStudio/FynixorStudio/main/logo.svg" width="56" alt="logo"/> | Monogram utama |
-| <a href="https://github.com/FynixorStudio/FynixorStudio/blob/main/capabilities.svg">capabilities.svg</a> | <img src="https://raw.githubusercontent.com/FynixorStudio/FynixorStudio/main/capabilities.svg" width="180" alt="capabilities"/> | Papan kapabilitas |
+| <a href="https://github.com/FynixorStudio/FynixorStudio/blob/main/capabilities.svg">capabilities.svg</a> | <img src="https://raw.githubusercontent.com/FynixorStudio/FynixorStudio/main/capabilities.svg" width="180" alt="capabilities"/> | Papan 72 kapabilitas, 4 kolom rapi |
 | <a href="https://github.com/FynixorStudio/FynixorStudio/blob/main/hero.svg">hero.svg</a> | <img src="https://raw.githubusercontent.com/FynixorStudio/FynixorStudio/main/hero.svg" width="140" alt="hero"/> | Banner pembuka |
 | <a href="https://github.com/FynixorStudio/FynixorStudio/blob/main/header.svg">header.svg</a> | <img src="https://raw.githubusercontent.com/FynixorStudio/FynixorStudio/main/header.svg" width="140" alt="header"/> | Banner kontak |
 | <a href="https://github.com/FynixorStudio/FynixorStudio/blob/main/skills.svg">skills.svg</a> | <img src="https://raw.githubusercontent.com/FynixorStudio/FynixorStudio/main/skills.svg" width="140" alt="skills"/> | Visual stack |
@@ -305,7 +341,7 @@ Local-first MCP config manager — satu perintah untuk sync & distribute konfigu
 <pre>
 FynixorStudio/
 ├── logo.svg          # monogram
-├── capabilities.svg  # papan kemampuan
+├── capabilities.svg  # 72 kapabilitas, 4 kolom
 ├── hero.svg          # banner pembuka
 ├── header.svg        # banner penutup
 ├── skills.svg        # visual stack
@@ -357,10 +393,10 @@ FynixorStudio/
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1a4d,50:170d31,100:05030d&height=120&section=footer&text=Let%27s%20Build%20Anything&fontSize=24&fontColor=f4f1fa&animation=fadeIn" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1a4d,50:170d31,100:05030d&height=120&section=footer&text=All%20Languages%20%C2%B7%20All%20Tools%20%C2%B7%20All%20Projects&fontSize=22&fontColor=f4f1fa&animation=fadeIn" width="100%" alt="Footer"/>
 
 <br/>
 
-<sub>© 2026 Fynixor Studio · All languages. All platforms. Built from scratch.</sub>
+<sub>© 2026 Fynixor Studio · Built from scratch, whatever the stack.</sub>
 
 </div>
