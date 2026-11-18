@@ -18,9 +18,6 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/FynixorStudio/FynixorStudio/main/hero.svg" alt="Fynixor Studio hero"/>
 
-<br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/FynixorStudio/FynixorStudio/main/capabilities.svg" alt="Fynixor Studio capabilities board — 72 capabilities in 4 categories"/>
 
 </div>
 
@@ -28,12 +25,15 @@
 
 <div align="center">
 
+**Navigasi**
+
 [![Overview](https://img.shields.io/badge/01-Overview-007acc?style=for-the-badge&logo=readme&logoColor=white&labelColor=05030d)](#overview)
 [![Kemampuan](https://img.shields.io/badge/02-Kemampuan-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=05030d)](#kemampuan)
 [![Projects](https://img.shields.io/badge/03-Projects-28a745?style=for-the-badge&logo=git&logoColor=white&labelColor=05030d)](#projects)
 [![Services](https://img.shields.io/badge/04-Services-6f42c1?style=for-the-badge&logo=code&logoColor=white&labelColor=05030d)](#services)
 [![Focus](https://img.shields.io/badge/05-Focus-dc3545?style=for-the-badge&logo=scale&logoColor=white&labelColor=05030d)](#focus--status)
 [![Stack](https://img.shields.io/badge/06-Stack-f7df1e?style=for-the-badge&logo=nodejs&logoColor=black&labelColor=05030d)](#tech-stack)
+<br/>
 [![Stats](https://img.shields.io/badge/07-Stats-17a2b8?style=for-the-badge&logo=chart%20gauge&logoColor=white&labelColor=05030d)](#stats)
 [![Roadmap](https://img.shields.io/badge/08-Roadmap-ffc107?style=for-the-badge&logo=trello&logoColor=white&labelColor=05030d)](#roadmap)
 [![FAQ](https://img.shields.io/badge/09-FAQ-fd7e14?style=for-the-badge&logo=help&logoColor=white&labelColor=05030d)](#faq)
@@ -47,7 +47,7 @@
 
 <a id="overview"></a>
 
-## <img src="https://img.shields.io/badge/01-Overview-007acc?style=flat-square&logo=readme&logoColor=white" alt="Overview">
+## 🧩 Overview
 
 <div align="center">
 
@@ -70,29 +70,69 @@
 
 <a id="kemampuan"></a>
 
-## <img src="https://img.shields.io/badge/02-Kemampuan-22C55E?style=flat-square&logo=checkmarx&logoColor=white" alt="Kemampuan">
+## 🚀 Kemampuan
 
-### Bisa semua bahasa pemrograman. Bisa semua tools. Bisa semua jenis project.
+**Bisa semua bahasa pemrograman. Bisa semua tools. Bisa semua jenis project.**
+
+### 🗂️ Papan Kapabilitas
 
 <div align="center">
 
+<img width="100%" src="https://raw.githubusercontent.com/FynixorStudio/FynixorStudio/main/capabilities.svg" alt="Papan kapabilitas Fynixor Studio — 72 item dalam 4 kolom"/>
+
+</div>
+
+### 🧩 Icon Stack
+
+<div align="center">
+
+**💻 Bahasa Pemrograman**
+
 <img src="https://skillicons.dev/icons?i=php,js,ts,python,go,java,c,cpp,csharp,rust,ruby,swift,kotlin,scala,dart,sql,html,css,sass&theme=dark" alt="stack row 1"/>
+
 <br/><br/>
+
+**🧪 Scripting & Lainnya**
+
 <img src="https://skillicons.dev/icons?i=bash,powershell,lua,perl,r,julia,haskell,elixir,clojure,groovy,objectivec,ocaml,fortran,matlab,json,yaml,toml,xml&theme=dark" alt="stack row 2"/>
+
 <br/><br/>
+
+**🧩 Framework & Library**
+
 <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,nodejs,express,laravel,django,flask,fastapi,springboot,tailwind,bootstrap,svelte,astro,nestjs,graphql,electron&theme=dark" alt="stack row 3"/>
+
 <br/><br/>
+
+**🗄️ Database & Data**
+
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,sqlite,mariadb,oracle,couchdb,neo4j,elasticsearch,kafka,pandas,numpy&theme=dark" alt="stack row 4"/>
+
 <br/><br/>
+
+**☁️ DevOps, Cloud & Platform**
+
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,githubactions,docker,kubernetes,terraform,ansible,jenkins,linux,windows,android,ios,termux,aws,gcp,azure,vercel,netlify,cloudflare&theme=dark" alt="stack row 5"/>
+
 <br/><br/>
+
+**🎨 Desain & Komunikasi**
+
 <img src="https://skillicons.dev/icons?i=figma,sketch,adobe,postman,insomnia,telegram,whatsapp,fiverr,instagram,gmail,notion,trello,slack,discord,zoom&theme=dark" alt="stack row 6"/>
+
 <br/><br/>
+
+**⌨️ Editor & Terminal**
+
 <img src="https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,jetbrains,intellij,pycharm,webstorm,sublime,atom,vim,emacs,nano,powershell,bash,terminal&theme=dark" alt="stack row 7"/>
 
 </div>
 
+### 🏷️ Tool & Language Badges
+
 <div align="center">
+
+**💻 Bahasa**
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -110,6 +150,11 @@
 <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<br/><br/>
+
+**🧩 Framework & Library**
+
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue&logoColor=white"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
@@ -123,6 +168,11 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
 <img src="https://img.shields.io/badge/Electron-2F3242?style=for-the-badge&logo=electron&logoColor=white"/>
+
+<br/><br/>
+
+**🗄️ Data, Cloud & Tools**
+
 <img src="https://img.shields.io/badge/MySQL-447AFF?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -146,7 +196,7 @@
 
 </div>
 
-### Cakupan kemampuan
+### 📋 Cakupan Kemampuan
 
 | Kategori | Detail | Status |
 | :--- | :--- | :---: |
@@ -169,7 +219,7 @@
 
 <a id="projects"></a>
 
-## <img src="https://img.shields.io/badge/03-Projects-28a745?style=flat-square&logo=git&logoColor=white" alt="Projects">
+## 📦 Projects
 
 ### ⭐ Featured: mcpfs
 
@@ -195,7 +245,7 @@ Local-first MCP config manager — satu perintah untuk sync & distribute konfigu
 
 <a id="services"></a>
 
-## <img src="https://img.shields.io/badge/04-Services-6f42c1?style=flat-square&logo=code&logoColor=white" alt="Services">
+## 🛠️ Services
 
 <div align="center">
 
@@ -233,7 +283,7 @@ Local-first MCP config manager — satu perintah untuk sync & distribute konfigu
 
 <a id="focus--status"></a>
 
-## <img src="https://img.shields.io/badge/05-Focus-dc3545?style=flat-square&logo=scale&logoColor=white" alt="Focus & Status">
+## 🎯 Focus & Status
 
 | Area | Status |
 | :--- | :---: |
@@ -250,7 +300,7 @@ Local-first MCP config manager — satu perintah untuk sync & distribute konfigu
 
 <a id="tech-stack"></a>
 
-## <img src="https://img.shields.io/badge/06-Stack-f7df1e?style=flat-square&logo=nodejs&logoColor=black" alt="Tech Stack">
+## ⚙️ Tech Stack
 
 <div align="center"><img src="https://raw.githubusercontent.com/FynixorStudio/FynixorStudio/main/skills.svg" width="100%" alt="skills"/></div>
 
@@ -267,7 +317,7 @@ Local-first MCP config manager — satu perintah untuk sync & distribute konfigu
 
 <a id="stats"></a>
 
-## <img src="https://img.shields.io/badge/07-Stats-17a2b8?style=flat-square&logo=chart%20gauge&logoColor=white" alt="Stats">
+## 📈 Stats
 
 <div align="center">
 
@@ -293,7 +343,7 @@ Local-first MCP config manager — satu perintah untuk sync & distribute konfigu
 
 <a id="roadmap"></a>
 
-## <img src="https://img.shields.io/badge/08-Roadmap-ffc107?style=flat-square&logo=trello&logoColor=white" alt="Roadmap">
+## 🗺️ Roadmap
 
 | # | Item | Status |
 | :---: | :--- | :---: |
@@ -308,7 +358,7 @@ Local-first MCP config manager — satu perintah untuk sync & distribute konfigu
 
 <a id="faq"></a>
 
-## <img src="https://img.shields.io/badge/09-FAQ-fd7e14?style=flat-square&logo=help&logoColor=white" alt="FAQ">
+## ❓ FAQ
 
 <details><summary><b>Fynixor Studio itu perusahaan?</b></summary><br/>Bukan berbadan hukum — ini wadah untuk produk dan layanan yang gue kerjain sendiri.</details>
 
@@ -326,7 +376,7 @@ Local-first MCP config manager — satu perintah untuk sync & distribute konfigu
 
 <a id="brand-assets"></a>
 
-## <img src="https://img.shields.io/badge/10-Assets-6610f2?style=flat-square&logo=palette&logoColor=white" alt="Brand Assets">
+## 🎨 Brand Assets
 
 | Aset | Preview | Fungsi |
 | :--- | :---: | :--- |
@@ -355,7 +405,7 @@ FynixorStudio/
 
 <a id="credits"></a>
 
-## <img src="https://img.shields.io/badge/11-Credits-20c997?style=flat-square&logo=heart&logoColor=white" alt="Credits">
+## 🤝 Credits
 
 | Role | Badge |
 | :--- | :--- |
@@ -365,7 +415,7 @@ FynixorStudio/
 
 ---
 
-## <img src="https://img.shields.io/badge/12-License-6D28D9?style=flat-square&logo=apache&logoColor=white" alt="License">
+## 📄 License
 
 [![Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-6D28D9?style=for-the-badge&logo=apache&logoColor=white)](https://github.com/FynixorStudio/FynixorStudio/blob/main/LICENSE)
 
@@ -373,7 +423,7 @@ FynixorStudio/
 
 <a id="contact"></a>
 
-## <img src="https://img.shields.io/badge/13-Contact-e83e8c?style=flat-square&logo=mail&logoColor=white" alt="Contact">
+## 📬 Contact
 
 <div align="center">
 
