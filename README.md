@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/github/followers/FynixorStudio?style=for-the-badge&color=8B5CF6&labelColor=05030d&label=FOLLOWERS" alt="followers"/>
 <img src="https://img.shields.io/badge/EST.-2023-8B5CF6?style=for-the-badge&labelColor=05030d" alt="established"/>
 <img src="https://img.shields.io/badge/BASED_IN-INDONESIA-A855F7?style=for-the-badge&labelColor=05030d" alt="location"/>
+<img src="https://img.shields.io/badge/OPEN_FOR-FREELANCE-22C55E?style=for-the-badge&labelColor=05030d" alt="open for freelance"/>
 
 <br/><br/>
 
@@ -21,23 +22,33 @@
 
 ---
 
-### Tentang
+## Quick Navigation
 
-Fynixor Studio adalah studio digital satu orang. Gue bangun produk sendiri (**Vorhex Store**), terima kerjaan dari luar lewat **Lumina Worksite**, dan sisanya masih tahap pengembangan.
-
-Fokusnya simpel: website, bot Telegram/WhatsApp, script, dan automation, dibuat dari nol sesuai kebutuhan.
-
-```yaml
-Founder:       Single-founder
-Established:   2023
-Based in:      Indonesia
-Environment:   Android (Termux) · Windows RDP · Linux · Cloud
-Open for:      Freelance · Commission · Kerja sama
-```
+[Overview](#overview) · [Unit](#unit) · [Projects](#projects) · [Services](#services-lumina-worksite) · [Focus & Status](#focus--status) · [Tech Stack](#tech-stack) · [Stats](#stats) · [Roadmap](#roadmap) · [FAQ](#faq) · [Credits](#credits) · [Contact](#contact)
 
 ---
 
-### Unit
+## Overview
+
+**Fynixor Studio** adalah studio digital satu orang. Gue bangun produk sendiri lewat **Vorhex Store**, terima kerjaan dari luar lewat **Lumina Worksite**, dan sisanya masih tahap pengembangan.
+
+- **Produk sendiri**: panel, cloud/RDP, script, dan SMM di bawah Vorhex Store.
+- **Jasa**: website, bot Telegram/WhatsApp, script, automation, backend, dan integrasi API lewat Lumina Worksite.
+- **Eksperimen**: VTuber Agency (talent & content creator) dan MBD (security research & tooling).
+- **Cara kerja**: dibuat dari nol sesuai kebutuhan, dari ide sampai serah terima dan maintenance.
+- **Lingkungan**: Android (Termux), Windows RDP, Linux, dan cloud — tergantung kebutuhan project.
+
+| | |
+| :--- | :--- |
+| **Founder** | Single-founder |
+| **Established** | 2023 |
+| **Based in** | Indonesia |
+| **Workspace** | Android (Termux) · Windows RDP · Linux · Cloud |
+| **Open for** | Freelance · Commission · Kerja sama |
+
+---
+
+## Unit
 
 | Unit | Isi | Status |
 | :--- | :--- | :---: |
@@ -50,7 +61,18 @@ Open for:      Freelance · Commission · Kerja sama
 
 ---
 
-### Jasa (Lumina Worksite)
+## Projects
+
+| Project | Deskripsi | Tech | Status |
+| :--- | :--- | :--- | :--- |
+| [mcpfs](https://github.com/FynixorStudio/mcpfs) | Local-first MCP config manager. Sync & distribute MCP servers ke Claude Code, Cursor, OpenCode, Codex CLI, Claude Desktop, dan lain-lain dalam satu perintah. | Go | Public |
+| [yokotofs-telegram-control](https://github.com/FynixorStudio/yokotofs-telegram-control) | Bot control untuk Telegram. | PHP | Public · 2 stars |
+| [FynixorStudio](https://github.com/FynixorStudio/FynixorStudio) | Profile README ini — dokumentasi studio, unit, jasa, dan project. | Markdown | Public |
+| [Anoterra](https://github.com/arraynothere/Anoterra) | Kontribusi sebagai contributor: IDE desktop Python berbasis PyQt6/QScintilla. | Python | Contributor |
+
+---
+
+## Services (Lumina Worksite)
 
 | | |
 | :--- | :--- |
@@ -60,11 +82,34 @@ Open for:      Freelance · Commission · Kerja sama
 | 🗄️ **Backend** | API, database, Firebase |
 | 🛠️ **Maintenance** | Perawatan dan pengembangan lanjutan |
 
+**Alur kerja singkat:**
+
+1. Hubungi lewat [Telegram](https://t.me/fynixorstudio), [email](mailto:fynixorstudio@gmail.com), atau [Fiverr](https://www.fiverr.com/fynixorstudio).
+2. Ceritakan kebutuhan, target, dan kendala yang mau diselesaikan.
+3. Diskusi scope, estimasi, dan teknologi yang paling pas.
+4. Development dengan update progres, lalu review bersama.
+5. Serah terima + opsi maintenance lanjutan.
+
 Mau pesan atau ngobrol dulu? Langsung ke [Contact](#contact).
 
 ---
 
-### Tech Stack
+## Focus & Status
+
+| Area | Status |
+| :--- | :---: |
+| Website, bot Telegram/WhatsApp, script & automation | ✅ Tersedia untuk freelance & commission |
+| Backend, API, database, Firebase | ✅ Tersedia |
+| Maintenance & pengembangan lanjutan | ✅ Tersedia |
+| Vorhex Store (panel, cloud/RDP, script, SMM) | ✅ Aktif |
+| Open-source tooling (mcpfs, bot control) | ✅ Aktif |
+| VTuber Agency | 🚧 Dalam pengembangan |
+| MBD — riset & tools keamanan | 🚧 Dalam pengembangan, hanya sistem sendiri/berizin |
+| Finansial / trading | 📌 Rencana, belum jadi unit |
+
+---
+
+## Tech Stack
 
 <div align="center">
 
@@ -82,7 +127,7 @@ Mau pesan atau ngobrol dulu? Langsung ke [Contact](#contact).
 
 ---
 
-### Stats
+## Stats
 
 <div align="center">
 
@@ -101,7 +146,17 @@ Mau pesan atau ngobrol dulu? Langsung ke [Contact](#contact).
 
 ---
 
-### FAQ
+## Roadmap
+
+- 🚀 **Vorhex Store** — lanjut kembangkan produk digital yang sudah aktif.
+- 🤖 **Lumina Worksite** — perluas layanan bot & automation.
+- 🎨 **VTuber Agency** — bangun fondasi talent & content creator.
+- 🛡️ **MBD** — riset dan tooling keamanan dengan batas izin yang jelas.
+- 📌 **Finansial/trading** — masih tahap rencana, belum dijalankan.
+
+---
+
+## FAQ
 
 <details>
 <summary><b>Fynixor Studio itu perusahaan?</b></summary>
@@ -118,7 +173,7 @@ Terima, lewat Lumina Worksite: website, bot Telegram/WhatsApp, script, automatio
 <details>
 <summary><b>Dikerjain pakai apa?</b></summary>
 <br/>
-Campuran: Android/Termux, Windows RDP, Linux, dan cloud, tergantung kebutuhan project.
+Campuran: Android/Termux, Windows RDP, Linux, dan cloud, tergantung kebutuhan project. Stack harian: PHP, JavaScript/Node.js, Python, HTML/CSS, Firebase, dan MySQL.
 </details>
 
 <details>
@@ -127,9 +182,27 @@ Campuran: Android/Termux, Windows RDP, Linux, dan cloud, tergantung kebutuhan pr
 Unit untuk riset dan pembuatan tools keamanan. Semua pengujian dilakukan hanya pada sistem sendiri atau yang ada izin tertulisnya.
 </details>
 
+<details>
+<summary><b>Project open-source mana yang bisa dilihat?</b></summary>
+<br/>
+Cek [mcpfs](https://github.com/FynixorStudio/mcpfs) untuk manajer konfigurasi MCP dan [yokotofs-telegram-control](https://github.com/FynixorStudio/yokotofs-telegram-control) untuk bot control berbasis PHP.
+</details>
+
 ---
 
-### Contact
+## Credits
+
+Terima kasih ke [@arraynothere](https://github.com/arraynothere) — dokumentasi [Anoterra](https://github.com/arraynothere/Anoterra) jadi referensi untuk menyusun README ini lebih rapi. Gue juga berkontribusi di project tersebut.
+
+---
+
+## License
+
+Konten repository ini menggunakan lisensi **Apache-2.0**. Detailnya ada di [LICENSE](https://github.com/FynixorStudio/FynixorStudio/blob/main/LICENSE).
+
+---
+
+## Contact
 
 <div align="center">
 
