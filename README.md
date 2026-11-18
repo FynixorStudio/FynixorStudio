@@ -78,7 +78,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/FynixorStudio/FynixorStudio/main/capabilities.svg" alt="Papan kapabilitas Fynixor Studio — 72 item dalam 4 kolom"/>
+<img width="100%" src="https://raw.githubusercontent.com/FynixorStudio/FynixorStudio/refs/heads/main/capabilities.svg" alt="Papan kapabilitas Fynixor Studio — 72 item dalam 4 kolom"/>
 
 </div>
 
@@ -381,7 +381,7 @@ Local-first MCP config manager — satu perintah untuk sync & distribute konfigu
 | Aset | Preview | Fungsi |
 | :--- | :---: | :--- |
 | <a href="https://github.com/FynixorStudio/FynixorStudio/blob/main/logo.svg">logo.svg</a> | <img src="https://raw.githubusercontent.com/FynixorStudio/FynixorStudio/main/logo.svg" width="56" alt="logo"/> | Monogram utama |
-| <a href="https://github.com/FynixorStudio/FynixorStudio/blob/main/capabilities.svg">capabilities.svg</a> | <img src="https://raw.githubusercontent.com/FynixorStudio/FynixorStudio/main/capabilities.svg" width="180" alt="capabilities"/> | Papan 72 kapabilitas, 4 kolom rapi |
+| <a href="https://github.com/FynixorStudio/FynixorStudio/blob/main/capabilities.svg">capabilities.svg</a> | <img src="https://raw.githubusercontent.com/FynixorStudio/FynixorStudio/refs/heads/main/capabilities.svg" width="180" alt="capabilities"/> | Papan 72 kapabilitas, 4 kolom rapi |
 | <a href="https://github.com/FynixorStudio/FynixorStudio/blob/main/hero.svg">hero.svg</a> | <img src="https://raw.githubusercontent.com/FynixorStudio/FynixorStudio/main/hero.svg" width="140" alt="hero"/> | Banner pembuka |
 | <a href="https://github.com/FynixorStudio/FynixorStudio/blob/main/header.svg">header.svg</a> | <img src="https://raw.githubusercontent.com/FynixorStudio/FynixorStudio/main/header.svg" width="140" alt="header"/> | Banner kontak |
 | <a href="https://github.com/FynixorStudio/FynixorStudio/blob/main/skills.svg">skills.svg</a> | <img src="https://raw.githubusercontent.com/FynixorStudio/FynixorStudio/main/skills.svg" width="140" alt="skills"/> | Visual stack |
